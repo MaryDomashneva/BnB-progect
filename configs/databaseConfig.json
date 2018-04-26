@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "mariagetmanova",
+    "password": null,
+    "database": "ahbnb_development",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "mariagetmanova",
+    "password": null,
+    "database": "ahbnb_test",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "mariagetmanova",
+    "password": null,
+    "database": "ahbnb",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  }
+}
